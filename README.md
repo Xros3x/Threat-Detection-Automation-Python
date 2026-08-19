@@ -51,13 +51,13 @@ The optional `threshold` argument sets how many failed attempts trigger an attac
 === SSH BRUTE FORCE DETECTION REPORT ===
 Total failed login attempts: 21
 Unique source IPs: 3
-Alert threshold: 5 failed attempts
+Alert threshold: 3 failed attempts
 
-[!] ALERT: 45.33.22.11 - 12 failed attempts - LIKELY ATTACKER
+[!] ALERT: 45.33.22.11 - 13 failed attempts - LIKELY ATTACKER
 [!] ALERT: 103.207.36.90 - 5 failed attempts - LIKELY ATTACKER
 [ ] 191.101.167.3 - 3 failed attempts
 
-Summary: 2 IP(s) flagged as likely attackers.
+Summary: 3 IP(s) flagged as likely attackers.
 ```
 
 ![Detection Output](screenshots/detector-output.png)
