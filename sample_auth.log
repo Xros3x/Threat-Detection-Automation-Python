@@ -1,0 +1,30 @@
+Jun 17 08:45:01 webserver CRON[1123]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 08:45:01 webserver CRON[1123]: pam_unix(cron:session): session closed for user root
+Jun 17 08:49:32 webserver sshd[2201]: Accepted password for admin from 192.168.1.50 port 51022 ssh2
+Jun 17 08:49:32 webserver sshd[2201]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Jun 17 08:50:07 webserver sshd[36689]: Failed password for root from 45.33.22.11 port 38372 ssh2
+Jun 17 08:50:08 webserver sshd[36690]: Failed password for root from 45.33.22.11 port 38401 ssh2
+Jun 17 08:50:09 webserver sshd[36691]: Failed password for root from 45.33.22.11 port 38455 ssh2
+Jun 17 08:50:10 webserver sshd[36692]: Failed password for admin from 45.33.22.11 port 38470 ssh2
+Jun 17 08:50:11 webserver sshd[36693]: Failed password for admin from 45.33.22.11 port 38501 ssh2
+Jun 17 08:50:12 webserver sshd[36694]: Failed password for root from 45.33.22.11 port 38533 ssh2
+Jun 17 08:50:13 webserver sshd[36695]: Failed password for postgres from 45.33.22.11 port 38560 ssh2
+Jun 17 08:50:14 webserver sshd[36696]: Failed password for root from 45.33.22.11 port 38599 ssh2
+Jun 17 08:50:15 webserver sshd[36697]: Failed password for oracle from 45.33.22.11 port 38620 ssh2
+Jun 17 08:50:16 webserver sshd[36698]: Failed password for root from 45.33.22.11 port 38655 ssh2
+Jun 17 08:51:44 webserver sshd[36710]: Failed password for root from 103.207.36.90 port 44012 ssh2
+Jun 17 08:51:45 webserver sshd[36711]: Failed password for root from 103.207.36.90 port 44055 ssh2
+Jun 17 08:51:46 webserver sshd[36712]: Failed password for test from 103.207.36.90 port 44090 ssh2
+Jun 17 08:51:47 webserver sshd[36713]: Failed password for ubuntu from 103.207.36.90 port 44120 ssh2
+Jun 17 08:51:48 webserver sshd[36714]: Failed password for root from 103.207.36.90 port 44155 ssh2
+Jun 17 08:52:33 webserver sshd[2250]: Accepted password for admin from 192.168.1.50 port 51190 ssh2
+Jun 17 08:52:33 webserver sshd[2250]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Jun 17 08:55:12 webserver sudo:    admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 17 09:01:22 webserver sshd[36820]: Failed password for root from 45.33.22.11 port 40122 ssh2
+Jun 17 09:01:23 webserver sshd[36821]: Failed password for root from 45.33.22.11 port 40155 ssh2
+Jun 17 09:01:24 webserver sshd[36822]: Failed password for admin from 45.33.22.11 port 40199 ssh2
+Jun 17 09:15:03 webserver sshd[37001]: Failed password for root from 191.101.167.3 port 55010 ssh2
+Jun 17 09:15:04 webserver sshd[37002]: Failed password for git from 191.101.167.3 port 55045 ssh2
+Jun 17 09:15:05 webserver sshd[37003]: Failed password for jenkins from 191.101.167.3 port 55080 ssh2
+Jun 17 09:20:41 webserver sshd[2301]: Accepted publickey for deploy from 192.168.1.75 port 52001 ssh2
+Jun 17 09:20:41 webserver sshd[2301]: pam_unix(sshd:session): session opened for user deploy by (uid=1001)
